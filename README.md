@@ -7,7 +7,7 @@
 
 - 🌱 This Task enhances learning **Handling APIs**
 
-- 💻 Task description **This project allows to bring a data by ready-made API about makeup brands like : product name ,product image, price**
+- 💻 Task description **This project allows to bring a data by ready-made API about makeup brands like : product name ,product image, price, rate and product type**
 
 
 - 🤝 Mentors **Sara & Yaqoot**
