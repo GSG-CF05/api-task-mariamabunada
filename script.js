@@ -27,7 +27,7 @@ fetch('https://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline')
         description.textContent=` Description: ${makeup.description}`
         card.appendChild(description)
         let rating=document.createElement('p')
-        rating.textContent=` Rating ${makeup.rating} stars`
+        rating.textContent=` Rating: ${makeup.rating} stars`
         card.appendChild(rating)
         let product_type=document.createElement('p')
         product_type.textContent=` Product type: ${makeup.product_type}`
