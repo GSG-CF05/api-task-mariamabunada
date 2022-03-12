@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [API Task](https://gsg-cf05.github.io/api-task-mariamabunada/)
 
+- [API Document](http://makeup-api.herokuapp.com/)  
+
 - 🌱 This Task enhances learning **Handling APIs**
 
 - 💻 Task description **This project allows to bring a data by ready-made API about makeup brands like : product name ,product image, price, rate and product type**
